@@ -14,19 +14,20 @@ Message history — past messages are loaded from the database when you join a r
 
 Discord-inspired UI — dark sidebar, channel list, user avatar, and logout button
 
-Tech Stack
-
-Layer      |  Technology
+Tech Stack|
 -------------------------------------------
-Frontend   |  React 19, Socket.io-client
 
-Backend    |  Node.js, Express 5
+|Layer      | Technology          |
+|--------  |----------------------|
+|Frontend   |  React 19, Socket.io-client|
 
-Real-time  |  Socket.io
+|Backend    |  Node.js, Express 5|
 
-Database   |  MongoDB (Mongoose)
+|Real-time  |  Socket.io|
 
-Auth       |  bcrypt, JSON Web Tokens (JWT)
+|Database   |  MongoDB (Mongoose)|
+
+|Auth       |  bcrypt, JSON Web Tokens (JWT)|
 
 Getting Started
 -------------------------------------------
