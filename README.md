@@ -16,17 +16,17 @@ Discord-inspired UI — dark sidebar, channel list, user avatar, and logout butt
 
 Tech Stack
 
-Layer        Technology
+Layer      |  Technology
 -------------------------------------------
-Frontend     React 19, Socket.io-client
+Frontend   |  React 19, Socket.io-client
 
-Backend      Node.js, Express 5
+Backend    |  Node.js, Express 5
 
-Real-time    Socket.io
+Real-time  |  Socket.io
 
-Database     MongoDB (Mongoose)
+Database   |  MongoDB (Mongoose)
 
-Auth         bcrypt, JSON Web Tokens (JWT)
+Auth       |  bcrypt, JSON Web Tokens (JWT)
 
 Getting Started
 -------------------------------------------
