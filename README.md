@@ -58,14 +58,10 @@ npm start
 
 API Endpoints:
 -------------------------------------------
-Method                  Endpoint                       Description
-
-
-POST                 /api/auth/register          Create a new user account
-
-
-POST                 /api/auth/login              Login and receive a JWT token
-
+| Method | Endpoint | Description |
+|--------|----------|-------------|
+| POST   | /api/auth/register | Create a new user account |
+| POST   | /api/auth/login    | Login and receive JWT token |
 
 
 
