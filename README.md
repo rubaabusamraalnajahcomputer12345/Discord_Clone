@@ -52,6 +52,8 @@ node index.js
 
 cd client
 
+npm install
+
 npm start 
 
 
