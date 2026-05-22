@@ -30,12 +30,14 @@ Getting Started
 Prerequisites
 
 Node.js (v18 or higher)
+
 A MongoDB database (MongoDB Atlas or local)
 
 Installation
 -------------------------------------------
 
 Clone the repository:
+
 git clone https://github.com/rubaabusamraalnajahcomputer12345/Discord_Clone.git
 
 cd Discord_Clone
