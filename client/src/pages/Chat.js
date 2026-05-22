@@ -63,14 +63,14 @@ export default function Chat({ user, onLogout }) {
     setMessage("");
   };
 
-  // ✅ LOGOUT FUNCTION
+  //  LOGOUT FUNCTION
   const handleLogout = () => {
     sessionStorage.removeItem("username");
     sessionStorage.removeItem("token");
 
     if (onLogout) onLogout();
 
-    window.location.reload(); // يرجعك للـ login
+    window.location.reload(); 
   };
 
   return (
